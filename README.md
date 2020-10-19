@@ -11,7 +11,7 @@ The program use python modules such as urllib, json, list, dictionaries and matp
 
 You can get your SteamID by logging into your steam account in a web browser or checking your profile on the Steam App in your PC.
 
-You need a SteamAPI Key in order to access Steam's Web API. Login to your steam account and get the key here https://steamcommunity.com/dev/apikey. You can use any domain name e.g google.com. Save the key on a text file on the same directory as the SteamStat.py file.
+You need a SteamAPI Key in order to access Steam's Web API. Login to your steam account and get the key here https://steamcommunity.com/dev/apikey. You can use any domain name e.g google.com. Save the key on a text file on the same directory as the SteamStats.py file.
 
 You can check out Steam's Web API Documentation for other API url requests. 
 https://developer.valvesoftware.com/wiki/Steam_Web_API#GetGlobalAchievementPercentagesForApp_.28v0001.29
